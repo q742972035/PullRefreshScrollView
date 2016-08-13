@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.test.pullrushscrollview.ui.MyScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮1"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮2"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮3"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮4"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮5"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮6"/>
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="按钮7"/>
+
+    </LinearLayout>
+
+</com.test.pullrushscrollview.ui.MyScrollView>
